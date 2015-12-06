@@ -1,0 +1,10 @@
+div#main {
+	width:200px;
+	margin-right:auto;
+	margin-left: auto;
+	border:solid 1px Black;
+}
+div#map {
+	width:200px;
+	height:200px;
+}
